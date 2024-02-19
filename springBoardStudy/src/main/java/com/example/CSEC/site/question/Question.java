@@ -1,6 +1,7 @@
-package com.example.CSEC.site;
+package com.example.CSEC.site.question;
 
 
+import com.example.CSEC.site.answer.Answer;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
