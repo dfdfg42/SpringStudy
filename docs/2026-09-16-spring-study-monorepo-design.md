@@ -15,8 +15,8 @@
 | 원본 리포 | 브랜치 | 커밋 | 공개 | 폴더 (camelCase) | 주제 |
 |---|---|---|---|---|---|
 | Spring-Login-Study | master | 1 | public | springLoginStudy | 스프링 로그인 스터디 (OAuth2, H2) |
-| CSEC-site | master | 11 | public | csecSite | 스프링 게시판 만들기 |
-| jdbc | main | 4 | private | jdbc | JDBC 연습 |
+| CSEC-site | master | 11 | public | springBoardStudy | 스프링 게시판 만들기 |
+| jdbc | main | 4 | private | springJdbcPractice | JDBC 연습 |
 | spring-mvc1-practice | main | 16 | private | springMvc1Practice | 스프링 MVC 1편 연습 |
 | spring-jpa-practice | master | 2 | private | springJpaPractice | JPA 연습 (jpashop) |
 
@@ -34,8 +34,8 @@ spring-study/                 (public)
 ├── .gitignore                루트용 (.idea/ 등)
 ├── docs/2026-09-16-spring-study-monorepo-design.md
 ├── springLoginStudy/
-├── csecSite/
-├── jdbc/
+├── springBoardStudy/
+├── springJdbcPractice/
 ├── springMvc1Practice/
 └── springJpaPractice/
 ```

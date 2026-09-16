@@ -11,7 +11,7 @@
 | 폴더 | 주제 | 커밋 | 마지막 작업 | 원본 리포 |
 |---|---|---|---|---|
 | [springLoginStudy](springLoginStudy) | 스프링 로그인 스터디 (Spring Security, OAuth2, H2) | 1 | 2024-08-06 | Spring-Login-Study |
-| [csecSite](csecSite) | 스프링 게시판 만들기 (SBB) | 11 | 2024-03-07 | CSEC-site |
-| [jdbc](jdbc) | JDBC 연습 | 4 | 2026-05-19 | jdbc |
+| [springBoardStudy](springBoardStudy) | 스프링 게시판 만들기 (SBB) | 11 | 2024-03-07 | CSEC-site |
+| [springJdbcPractice](springJdbcPractice) | JDBC 연습 | 4 | 2026-05-19 | jdbc |
 | [springMvc1Practice](springMvc1Practice) | 스프링 MVC 1편 연습 | 16 | 2024-12-30 | spring-mvc1-practice |
 | [springJpaPractice](springJpaPractice) | JPA 연습 (jpashop) | 2 | 2024-09-09 | spring-jpa-practice |
